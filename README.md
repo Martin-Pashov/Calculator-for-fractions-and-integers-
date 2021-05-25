@@ -1,2 +1,2 @@
 # Calculator-for-fractions-and-integers-
-a
+An interactive console application that can solve integer and fraction math problems. 
